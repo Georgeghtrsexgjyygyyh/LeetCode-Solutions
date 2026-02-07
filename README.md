@@ -6,6 +6,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
@@ -20,4 +21,12 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
