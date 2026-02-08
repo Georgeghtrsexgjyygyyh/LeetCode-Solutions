@@ -20,6 +20,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 | ------- |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -35,9 +36,14 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 | ------- |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
