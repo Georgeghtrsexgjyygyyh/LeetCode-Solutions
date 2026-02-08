@@ -7,6 +7,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -18,6 +19,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -32,6 +34,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
