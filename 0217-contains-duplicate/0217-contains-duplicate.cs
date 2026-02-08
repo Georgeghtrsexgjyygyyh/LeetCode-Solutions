@@ -6,9 +6,7 @@ public class Solution
 
         foreach (int x in nums) 
         {
-            if(visited.Contains(x)) return true;
-
-            visited.Add(x);
+            if (!visited.Add(x)) return true;
         }
 
         return false;
