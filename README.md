@@ -51,4 +51,16 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
