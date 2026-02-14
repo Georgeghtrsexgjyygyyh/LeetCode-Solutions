@@ -2,14 +2,25 @@ public class Solution
 {
     public int[] FindErrorNums(int[] nums)
     {
-        int[] numsd = nums.Distinct().ToArray();
 
-        int numsdsum = numsd.Sum();
+        int[] count = new int[nums.Length + 1];
 
-        int sumreal = nums.Length * (nums.Length + 1) / 2;
+        int dup = -1;
+        int loss = -1;
 
-        int[] newn = { nums.Sum() - numsdsum, sumreal - numsdsum};
+        
+        for (int i = 0; i < nums.Length; i++)
+        {
+            count[nums[i]]++;
+        }
 
-        return newn;
+        for (int i = 1; i <= nums.Length; i++)
+        {
+            if (count[i] == 2) dup = i;
+
+            else if (count[i] == 0) loss = i;
+        }
+
+        return new int[] { dup, loss };
     }
 }
