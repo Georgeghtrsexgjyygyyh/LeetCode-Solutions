@@ -6,6 +6,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -78,5 +79,6 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
