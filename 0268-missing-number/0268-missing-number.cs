@@ -2,8 +2,17 @@ public class Solution
 {
     public int MissingNumber(int[] nums)
     {
-        int result = (nums.Length * (nums.Length + 1) / 2) - nums.Sum();
+        int expSum = nums.Length * (nums.Length + 1) / 2;
 
-        return result;
+        int actSum = 0;
+
+        
+        for (int i = 0; i < nums.Length; i++)
+        {
+            actSum += nums[i];
+        }
+
+        return expSum - actSum;
+    
     }
 }
