@@ -13,6 +13,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 | [0268-missing-number](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -90,6 +91,7 @@ My personal collection of algorithm solutions on LeetCode. Focused on high-perfo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Georgeghtrsexgjyygyyh/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
